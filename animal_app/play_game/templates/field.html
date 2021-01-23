@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Play Game{% endblock %}
+
+{% block content %}
+
+<form class="d-flex" method="POST">
+        {% csrf_token %}
+		<button class="btn btn-default">
+     		<img src="https://i.imgur.com/mosQlmF.jpg" width=600 height=500/>
+		</button>
+
+		<button class="btn btn-default">
+     		<img src="https://i.imgur.com/mi4sOoH.jpeg" width=600 height=500/>
+		</button>
+</form>
+
+{% endblock %}
