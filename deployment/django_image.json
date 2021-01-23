@@ -1,0 +1,31 @@
+{
+    "builders": [ {
+        "type": "openstack",
+        "flavor": "m1.micro",
+        "image_name": "django-image",
+        "source_image_name": "Ubuntu 18.04",
+        "ssh_username": "ubuntu"
+    } ],
+    "provisioners": [
+        {
+            "type": "shell",
+            "inline": [
+                "git clone https://github.com/CMPUT401-WI2021-GuessWhichAnimal/GuessWhichAnimal.git"
+            ]
+        },
+        {
+            "type": "shell",
+            "inline": [
+                "sudo apt update",
+                "sudo apt install python3-pip",
+                "pip3 install django==3.1.5"
+            ]
+        },
+        {
+            "type": "file",
+            "source": "run_server",
+            "destination": "home/ubuntu/run_server"
+        }
+    ]
+    
+}
