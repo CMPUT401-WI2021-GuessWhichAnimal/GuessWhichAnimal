@@ -3,22 +3,33 @@
 {% block title %}Play Game{% endblock %}
 
 {% block content %}
-
+<style>
+.main {max-width: 800px; float: left;}
+</style> 
+<div class=main>
+<h1>These animals need your help!</h1>
+<p>Each animal has a conservation status, from Least Concern to Critically Endagered. Can you guess which one faces a greater threat?</p>
 <form action="{% url 'guess' %}" method="POST">
 		{% csrf_token %}
 		{{form1}}
 		<button class="btn btn-default">
-			 <img src={{animal1.image_url}} width=600 height=500/>
+			 <img src={{animal1.image_url}} height=500/>
 			 <p>{{animal1.name}}</p>
 		</button>
 	</form>
+	<p>Photo Author: {{animal1.author}}<br>
+		{{animal1.image_license}}<br>>
+	<a href="{{animal1.license_url}}"">Photo and license details</a></p>
 	<form action="{% url 'guess' %}" method="POST">
 		{% csrf_token %}
 		{{form2}}
 		<button class="btn btn-default">
-			 <img src={{animal2.image_url}} width=600 height=500/>
+			 <img src={{animal2.image_url}} height=500/>
 			 <p>{{animal2.name}}</p>
 		</button>
 </form>
-
+<p>Photo Author: {{animal2.author}}<br>
+	{{animal2.image_license}}<br>>
+<a href="{{animal2.license_url}}"">Photo and license details</a></p>
 {% endblock %}
+</div>
