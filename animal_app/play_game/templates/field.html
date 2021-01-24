@@ -4,36 +4,38 @@
 
 {% block content %}
 <style>
-.main {max-width: 800px; float: left;}
+.row {float: left;}
+.img {max-height: 500px;}
+.col {width: 900px;}
 </style> 
-<div class=main>
+<div class=row>
 <h1>These animals need your help!</h1>
 <p>Each animal has a conservation status, from Least Concern to Critically Endagered. Can you guess which one faces a greater threat?</p>
+<div class="col">
 <form action="{% url 'guess' %}" method="POST">
 		{% csrf_token %}
 		{{form1}}
 		<button class="btn btn-default">
-			 <img src={{animal1.image_url}} height=500/>
+			 <img src={{animal1.image_url}} width=500/>
 			 <p>{{animal1.name}}</p>
 		</button>
 	</form>
 	<p>Photo Author: {{animal1.author}}<br>
 		{{animal1.image_license}}<br>>
 	<a href="{{animal1.license_url}}"">Photo and license details</a></p>
+	</div>
+	<div class="col">
 	<form action="{% url 'guess' %}" method="POST">
 		{% csrf_token %}
 		{{form2}}
 		<button class="btn btn-default">
-			 <img src={{animal2.image_url}} height=500/>
+			 <img src={{animal2.image_url}} width=500/>
 			 <p>{{animal2.name}}</p>
 		</button>
-
-		<h3>
-			Score: {{ score.player_score }}
-		</h3>
 </form>
 <p>Photo Author: {{animal2.author}}<br>
 	{{animal2.image_license}}<br>>
 <a href="{{animal2.license_url}}"">Photo and license details</a></p>
-{% endblock %}
 </div>
+</div>
+{% endblock %}
