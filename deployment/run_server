@@ -4,6 +4,8 @@
 # have cron run this with @reboot <path/to/script>
 
 cd /home/ubuntu/animal_app
+rm db.sqlite3
 python3 manage.py migrate
+echo "from play_game.loadcsv import load_animals; load_animals()" | python3 manage.py shell
 python3 manage.py runserver [::]:8000
 exit 0

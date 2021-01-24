@@ -14,6 +14,10 @@ def field(request):
 	form2 = GuessForm(initial={'chosen_name': animal2.name, 'comparitor_name': animal1.name})
 	return render(request, 'field.html', {'animal1': animal1, 'animal2': animal2, 'form1': form1, 'form2': form2})
 
+def increase_score(request):
+	Score.player_score = Score.player_score + 1
+	return redirect('field')
+
 def guess(request):
 	if request.method == 'POST':
 		form = GuessForm(request.POST)
