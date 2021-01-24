@@ -12,7 +12,7 @@
             "type": "shell",
             "inline": [
                 "sudo apt update",
-                "sudo apt install python3-pip",
+                "sudo apt install -y python3-pip",
                 "pip3 install django==3.1.5",
                 "pip3 install Pillow"
             ]
@@ -26,6 +26,11 @@
             "type": "file",
             "source": "../animal_app",
             "destination": "/home/ubuntu/animal_app"
+        },
+        {
+            "type": "file",
+            "source": "../raw_data",
+            "destination": "/home/ubuntu/raw_data"
         },
         {
             "type": "shell",
