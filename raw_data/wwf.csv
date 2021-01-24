@@ -1,97 +1,84 @@
-Name,Status,Population
-African Elephant,Vulnerable,"Approximately 415,000 in the wild"
-African Wild Dog,Endangered,"1,409"
-Albacore Tuna,Near Threatened,Unknown
-Amazon River Dolphin,Unknown,Unknown
-Amur Leopard,Critically Endangered,More than 84 individuals
-Arctic Fox,Least Concern,Several hundred thousand
-Arctic Wolf,Least Concern,Unknown
-Asian Elephant,Endangered,"Fewer than 50,000"
-Beluga,Near Threatened,"over 150,000"
-Bigeye Tuna,Vulnerable,Unknown
-Black Rhino,Critically Endangered,"Around 5,600"
-Black Spider Monkey,Vulnerable,Unknown
-Black-footed Ferret,Endangered,Approximately 370 in the wild
-Blue Whale,Endangered,"10,000-25,000 individuals"
-Bluefin Tuna,Endangered,Unknown
-Bonobo,Endangered,"10,000 to 50,000"
-Bornean Elephant,Endangered,"Estimated to be fewer than 1,500"
-Bornean Orangutan,Critically Endangered,"About 104,700"
-Bowhead Whale,Least Concern,"Approximately 10,000"
-Brown Bear,Least Concern,"110,000"
-Chimpanzee,Endangered,"172,700 to 299,700"
-Common Bottlenose Dolphin,Unknown,Unknown
-Continental Tiger,Unknown,"Around 3,500"
-Cross River Gorilla,Critically Endangered,200 to 300 individuals
-Dolphins and Porpoises,Unknown,Unknown
-Dugong,Vulnerable,Unknown
-Eastern Lowland Gorilla,Critically Endangered,Unknown
-Elephant,Unknown,Unknown
-Fin Whale,Endangered,"Between 50,000-90,000"
-Forest Elephant,Vulnerable,Unknown
-Galápagos Penguin,Endangered,fewer than 2000
-Ganges River Dolphin,Endangered,"1,200–1,800"
-Giant Panda,Vulnerable,"1,864 in the wild"
-Giant Tortoise,Vulnerable,Unknown
-Gorilla,Unknown,"100,000 to 200,000"
-Gray Whale,Least Concern,estimated 150 individuals (western population); stable (eastern population)
-Great White Shark,Vulnerable,Unknown
-Greater One-Horned Rhino,Vulnerable,"Around 3,700"
-Greater Sage-Grouse,Near Threatened,"100,000 to 500,000"
-Green Turtle,Endangered,Unknown
-Hawksbill Turtle,Critically Endangered,Unknown
-Hector's Dolphin,Endangered,estimated at 7000
-Hippopotamus,Vulnerable,"115,000 to 130,000"
-Humphead Wrasse,Endangered,Unknown
-Indian Elephant,Endangered,"20,000 – 25,000"
-Indus River Dolphin,Endangered,"1,816"
-Irrawaddy Dolphin,Endangered,Unknown
-Jaguar,Near Threatened,Unknown
-Javan Rhino,Critically Endangered,Around 60
-Leatherback Turtle,Vulnerable,Unknown
-Loggerhead Turtle,Vulnerable,Unknown
-Macaw,Least Concern,Unknown
-Marine Iguana,Vulnerable,Unknown
-Monarch Butterfly,Unknown,Unknown
-Mountain Gorilla,Endangered,"More than 1,000"
-Mountain Plover,Near Threatened,"15,000-20,000"
-Narwhal,Near Threatened,"more than 80,000"
-North Atlantic Right Whale,Endangered,300-350 individuals
-Olive Ridley Turtle,Vulnerable,Unknown
-Orangutan,Critically Endangered,"about 104,700 (Bornean), 13,846 (Sumatran), 800 (Tapanuli)"
-Pacific Salmon,Unknown,Unknown
-Pangolin,Unknown,Unknown
-Penguin,Unknown,Unknown
-Plains Bison,Near Threatened,"20,504"
-Poison Dart Frog,Unknown,Unknown
-Polar Bear,Vulnerable,"22,000-31,000"
-Pronghorn,Least Concern,about 1 million
-Red Panda,Endangered,"less than 10,000 individuals"
-Rhino,Unknown,"Around 27,000"
-Saola,Critically Endangered,Unknown
-Savanna Elephant,Vulnerable,Unknown
-Sea Lions,Endangered,Unknown
-Sea Turtle,Endangered,Unknown
-Seals,Unknown,Unknown
-Sei Whale,Endangered,Unknown
-Shark,Unknown,Unknown
-Skipjack Tuna,Least Concern,Unknown
-Sloth,Unknown,Unknown
-Snow Leopard,Vulnerable,"total estimated 4,080-6,590"
-Southern rockhopper penguin,Vulnerable,Unknown
-Sri Lankan Elephant,Endangered,"2,500–4,000"
-Sumatran Elephant ,Critically Endangered,"2,400 – 2,800"
-Sumatran Orangutan,Critically Endangered,"14,613"
-Sumatran Rhino,Critically Endangered,Fewer than 80
-Sunda Tiger,Critically Endangered,Less than 400
-Swift Fox,Least Concern,Unknown
-Tiger,Endangered,"Around 3,900"
-Tree Kangaroo,Least Concern,Unknown
-Tuna,Unknown,Unknown
-Vaquita,Critically Endangered,About 10 individuals
-Western Lowland Gorilla,Critically Endangered,Unknown
-Whale,Endangered,"Around 400 North Atlantic right whales remain; other species vary: 10,000-90,000"
-Whale Shark,Endangered,Unknown
-White Rhino,Near Threatened,"Around 18,000"
-Yangtze Finless Porpoise,Critically Endangered,1000-1800
-Yellowfin Tuna,Near Threatened,Unknown
+Name,Status,Population,Author,Image License,Link to Image License,Image URL
+African elephant,Vulnerable,"Approximately 415,000 in the wild",Bernard DUPONT from FRANCE,This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg,https://upload.wikimedia.org/wikipedia/commons/b/bf/African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg
+African wild dog,Endangered,"1,409",Charles James Sharp,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:African_wild_dog_(Lycaon_pictus_pictus).jpg,https://upload.wikimedia.org/wikipedia/commons/b/ba/African_wild_dog_%28Lycaon_pictus_pictus%29.jpg
+Albacore tuna,Near Threatened,Unknown,fishwatch.gov,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Thunnus_alalunga_2.jpg,https://upload.wikimedia.org/wikipedia/commons/7/7d/Thunnus_alalunga_2.jpg
+Amur leopard,Critically Endangered,More than 84 individuals,William Warby,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Panthera_pardus_orientalis_Colchester_Zoo_(1).jpg,https://upload.wikimedia.org/wikipedia/commons/4/45/Panthera_pardus_orientalis_Colchester_Zoo_%281%29.jpg
+Arctic fox,Least Concern,Several hundred thousand,Jonathen Pie https://unsplash.com/@r3dmax,This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.,https://commons.wikimedia.org/wiki/File:Iceland-1979445_(cropped_3).jpg,https://upload.wikimedia.org/wikipedia/commons/8/83/Iceland-1979445_%28cropped_3%29.jpg
+Arctic wolf,Least Concern,Unknown,"Copyright© Ralf Schmode, http://www.schmode.net/ ",Free to use with conditions (see link),https://commons.wikimedia.org/wiki/File:Polarwolf004.jpg,https://upload.wikimedia.org/wikipedia/commons/e/ed/Polarwolf004.jpg
+Asian elephant,Endangered,"Fewer than 50,000",Yathin S Krishnappa,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg,https://upload.wikimedia.org/wikipedia/commons/9/98/Elephas_maximus_%28Bandipur%29.jpg
+Atlantic bluefin tuna,Endangered,Unknown,Unknown author,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Bluefin-big.jpg,https://upload.wikimedia.org/wikipedia/commons/1/18/Bluefin-big.jpg
+Beluga whale,Near Threatened,"over 150,000",(Greg5030),This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Beluga03.jpg,https://upload.wikimedia.org/wikipedia/commons/1/19/Beluga03.jpg
+Bigeye tuna,Vulnerable,Unknown,"Allen Shimada, NOAA NMFS OST",This image is in the public domain,https://commons.wikimedia.org/wiki/File:Thunnus_obesus_(bigeye_tuna).jpg,https://upload.wikimedia.org/wikipedia/commons/a/ac/Thunnus_obesus_%28bigeye_tuna%29.jpg
+Black rhino,Critically Endangered,"Around 5,600",Yathin S Krishnappa,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:2012_Black_Rhinoceros_Gemsbokvlakte.jpg,https://upload.wikimedia.org/wikipedia/commons/2/22/2012_Black_Rhinoceros_Gemsbokvlakte.jpg
+Black-footed ferret,Endangered,Approximately 370 in the wild,USFWS Mountain Prairie,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Mustela_nigripes_2.jpg,https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg
+Blue whale,Endangered,"10,000-25,000 individuals",NOAA Photo Library,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg,https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg
+Bonobo,Endangered,"10,000 to 50,000",natataek,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Apeldoorn_Apenheul_zoo_Bonobo.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e2/Apeldoorn_Apenheul_zoo_Bonobo.jpg
+Bornean elephant,Endangered,"Estimated to be fewer than 1,500",PLoS Biology,This file is licensed under the Creative Commons Attribution 2.5 Generic license.,https://commons.wikimedia.org/wiki/File:Borneo-elephant-PLoS_Biology.jpg,https://upload.wikimedia.org/wikipedia/commons/9/93/Borneo-elephant-PLoS_Biology.jpg
+Bornean orangutan,Critically Endangered,"About 104,700",Reinhard Link from Germany,This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.,"https://commons.wikimedia.org/wiki/File:Muenster_Orang_Utan,_Allwetterzoo_Muenster_(16568187058).jpg",https://upload.wikimedia.org/wikipedia/commons/c/c3/Muenster_Orang_Utan%2C_Allwetterzoo_Muenster_%2816568187058%29.jpg
+Bowhead whale,Least Concern,"Approximately 10,000",Author Unknown,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Bowheads42.jpg,https://upload.wikimedia.org/wikipedia/commons/c/c9/Bowheads42.jpg
+Brown bear,Least Concern,"110,000",Yathin S Krishnappa,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg,https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg
+Chimpanzee,Endangered,"172,700 to 299,700",Charles James Sharp,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Common_chimpanzee_(Pan_troglodytes_schweinfurthii)_feeding.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8b/Common_chimpanzee_%28Pan_troglodytes_schweinfurthii%29_feeding.jpg
+Continental tiger,Unknown,"Around 3,500",Seemaleena,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Adult_male_Royal_Bengal_tiger.jpg,https://upload.wikimedia.org/wikipedia/commons/6/66/Adult_male_Royal_Bengal_tiger.jpg
+Cross river gorilla,Critically Endangered,200 to 300 individuals,arenddehaas at English Wikipedia,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Cross_river_gorilla.jpg,https://upload.wikimedia.org/wikipedia/commons/a/a9/Cross_river_gorilla.jpg
+Dugong,Vulnerable,Unknown,Gejuni,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Germany license.,https://commons.wikimedia.org/wiki/File:Dugong.JPG,https://upload.wikimedia.org/wikipedia/commons/4/42/Dugong.JPG
+Eastern lowland gorilla,Critically Endangered,Unknown,"Joe McKenna from San Diego, California",This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Eastern_lowland_gorilla.jpg,https://upload.wikimedia.org/wikipedia/commons/8/82/Eastern_lowland_gorilla.jpg
+Fin whale,Endangered,"Between 50,000-90,000",Aqqa Rosing-Asvid - Visit Greenland,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Finhval_(1).jpg,https://upload.wikimedia.org/wikipedia/commons/c/ce/Finhval_%281%29.jpg
+Forest elephant,Vulnerable,Unknown,Peter H. Wrege,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:African_Forest_Elephant.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6a/African_Forest_Elephant.jpg
+Galapagos penguin,Endangered,fewer than 2000,Charles James Sharp,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Gal%C3%A1pagos_penguin_(Spheniscus_mendiculus)_male.jpg,https://upload.wikimedia.org/wikipedia/commons/7/74/Gal%C3%A1pagos_penguin_%28Spheniscus_mendiculus%29_male.jpg
+Galapagos tortoise,Vulnerable,Unknown,"Mfield, Matthew Field, http://www.photography.mattfield.com",This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_Geochelone_elephantopus.jpg,https://upload.wikimedia.org/wikipedia/commons/4/42/Galapagos_giant_tortoise_Geochelone_elephantopus.jpg
+Ganges river dolphin,Endangered,"1,200 - 1,800",Zahangir Alom / Marine Mammal Commission / National Oceanic and Atmospheric Administration,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Platanista_gangetica_noaa.jpg,https://upload.wikimedia.org/wikipedia/commons/1/19/Platanista_gangetica_noaa.jpg
+Giant panda,Vulnerable,"1,864 in the wild",J. Patrick Fischer,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG,https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG
+Gorilla,Unknown,"100,000 to 200,000",Brocken Inaglory,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Male_gorilla_in_SF_zoo.jpg,https://upload.wikimedia.org/wikipedia/commons/5/50/Male_gorilla_in_SF_zoo.jpg
+Gray whale,Least Concern,estimated 150 individuals (western population); stable (eastern population),José Eugenio Gómez Rodríguez,This file is licensed under the Creative Commons Attribution 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Ballena_gris_adulta_con_su_ballenato.jpg,https://upload.wikimedia.org/wikipedia/commons/0/00/Ballena_gris_adulta_con_su_ballenato.jpg
+Great white shark,Vulnerable,Unknown,English: Pterantula (Terry Goss) at en.wikipedia,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:White_shark.jpg,https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg
+Greater one-horned rhino,Vulnerable,"Around 3,700",Anuwar ali hazarika,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:One_horn_Rhino_in_Kaziranga_national_park.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b7/One_horn_Rhino_in_Kaziranga_national_park.jpg
+Greater sage-grouse,Near Threatened,"100,000 to 500,000","Pacific Southwest Region U.S. Fish and Wildlife Service from Sacramento, US",This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Centrocercus_urophasianus_-USA_-male-8.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6c/Centrocercus_urophasianus_-USA_-male-8.jpg
+Green turtle,Endangered,Unknown,Brocken Inaglory,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Green_turtle_swimming_over_coral_reefs_in_Kona.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e5/Green_turtle_swimming_over_coral_reefs_in_Kona.jpg
+Hawksbill turtle,Critically Endangered,Unknown,Thierry Caro,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Eretmochelys-imbricata-K%C3%A9lonia-2.JPG,https://upload.wikimedia.org/wikipedia/commons/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG
+Hector's dolphin,Endangered,estimated at 7000,Avenue,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Hector%27s_Dolphins_at_Porpoise_Bay_1999_a_cropped.jpg,https://upload.wikimedia.org/wikipedia/commons/b/be/Hector%27s_Dolphins_at_Porpoise_Bay_1999_a_cropped.jpg
+Hippopotamus,Vulnerable,"115,000 to 130,000",Diego Delso,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,"https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_82.jpg",https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg
+Humphead wrasse,Endangered,Unknown,Author Unknown,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Humphead_wrasse_melb_aquarium.jpg,https://upload.wikimedia.org/wikipedia/commons/4/49/Humphead_wrasse_melb_aquarium.jpg
+Indian elephant,Endangered,"20,000 - 25,000",Yathin S Krishnappa,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg,https://upload.wikimedia.org/wikipedia/commons/9/98/Elephas_maximus_%28Bandipur%29.jpg
+Indus river dolphin,Endangered,"1,816",Zahangir Alom / Marine Mammal Commission / National Oceanic and Atmospheric Administration,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Platanista_gangetica_noaa.jpg,https://upload.wikimedia.org/wikipedia/commons/1/19/Platanista_gangetica_noaa.jpg
+Irrawaddy dolphin,Endangered,Unknown,Stefan Brending (2eight),This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Germany license.,https://commons.wikimedia.org/wiki/File:Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg,https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg
+Jaguar,Near Threatened,Unknown,Charles James Sharp,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg,https://upload.wikimedia.org/wikipedia/commons/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg
+Javan rhino,Critically Endangered,Around 60,T.Dixon. The Zoological Society of London,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Rhinoceros_sondaicus_in_London_Zoo.jpg,https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg
+Leatherback turtle,Vulnerable,Unknown,U.S. Fish and Wildlife Service Southeast Region,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,"https://commons.wikimedia.org/wiki/File:Leatherback_sea_turtle_Tinglar,_USVI_(5839996547).jpg",https://upload.wikimedia.org/wikipedia/commons/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg
+Loggerhead turtle,Vulnerable,Unknown,ukanda,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Loggerhead_sea_turtle.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8e/Loggerhead_sea_turtle.jpg
+Macaw,Least Concern,Unknown,Benjamint444,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Blue-and-Yellow-Macaw.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6d/Blue-and-Yellow-Macaw.jpg
+Marine iguana,Vulnerable,Unknown,"RAF-YYC from Calgary, Canada",This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:Amblyrhynchus_cristatus_(3838137696).jpg,https://upload.wikimedia.org/wikipedia/commons/5/5a/Amblyrhynchus_cristatus_%283838137696%29.jpg
+Mountain gorilla,Endangered,"More than 1,000",https://www.flickr.com/photos/deepphoto/ d_proffer,This file is licensed under the Creative Commons Attribution 2.0 Generic license.,"https://commons.wikimedia.org/wiki/File:Susa_group,_mountain_gorilla.jpg",https://upload.wikimedia.org/wikipedia/commons/a/a0/Susa_group%2C_mountain_gorilla.jpg
+Mountain plover,Near Threatened,"15,000-20,000",Bill Bouton,This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.,"https://commons.wikimedia.org/wiki/File:Mountain_Plover,_Charadrius_montanus.jpg",https://upload.wikimedia.org/wikipedia/commons/d/dc/Mountain_Plover%2C_Charadrius_montanus.jpg
+Narwhal,Near Threatened,"more than 80,000",W. Scoresby.,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Narwhalsk.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e6/Narwhalsk.jpg
+North atlantic right whale,Endangered,300-350 individuals,Author Unknown,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Eubalaena_glacialis_with_calf.jpg,https://upload.wikimedia.org/wikipedia/commons/6/6a/Eubalaena_glacialis_with_calf.jpg
+Olive ridley turtle,Vulnerable,Unknown,Thierry Caro,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Lepidochelys-olivacea-K%C3%A9lonia-1.JPG,https://upload.wikimedia.org/wikipedia/commons/b/b5/Lepidochelys-olivacea-K%C3%A9lonia-1.JPG
+Orangutan,Critically Endangered,"about 104,700 (Bornean), 13,846 (Sumatran), 800 (Tapanuli)",Eleifert,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,"https://commons.wikimedia.org/wiki/File:Orang_Utan,_Semenggok_Forest_Reserve,_Sarawak,_Borneo,_Malaysia.JPG",https://upload.wikimedia.org/wikipedia/commons/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG
+Plains bison,Near Threatened,"20,504",Jack Dykinga,This image is in the public domain,https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg,https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg
+Polar bear,Vulnerable,"22,000-31,000",Alan Wilson,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska.jpg,https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg
+Pronghorn,Least Concern,about 1 million,www.naturespicsonline.com,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Antilocapra_americana.jpg,https://upload.wikimedia.org/wikipedia/commons/a/a3/Antilocapra_americana.jpg
+Red panda,Endangered,"less than 10,000 individuals",Greg Hume,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:RedPandaFullBody.JPG,https://upload.wikimedia.org/wikipedia/commons/5/50/RedPandaFullBody.JPG
+Black spider monkey,Vulnerable,Unknown,Hans Hillewaert,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Ateles_paniscus.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e1/Ateles_paniscus.jpg
+Rhino,Unknown,"Around 27,000",Jonathunder,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Diceros_bicornis.jpg,https://upload.wikimedia.org/wikipedia/commons/6/63/Diceros_bicornis.jpg
+Saola,Critically Endangered,Unknown,The original uploader was Silviculture at Vietnamese Wikipedia.,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,"https://commons.wikimedia.org/wiki/File:Pseudoryx_nghetinhensis,_b.PNG",https://upload.wikimedia.org/wikipedia/commons/7/73/Pseudoryx_nghetinhensis%2C_b.PNG
+Savanna elephant,Vulnerable,Unknown,Bernard DUPONT from FRANCE,This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license.,https://commons.wikimedia.org/wiki/File:African_Elephant_(Loxodonta_africana)_male_(17289351322).jpg,https://upload.wikimedia.org/wikipedia/commons/b/bf/African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg
+Sea lions,Endangered,Unknown,Rhododendrites,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:California_sea_lion_in_La_Jolla_(70568).jpg,https://upload.wikimedia.org/wikipedia/commons/7/74/California_sea_lion_in_La_Jolla_%2870568%29.jpg
+Sea turtle,Endangered,Unknown,Author Unknown,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Sea_Turtle.jpg,https://upload.wikimedia.org/wikipedia/commons/1/1e/Sea_Turtle.jpg
+Sei whale,Endangered,Unknown,"Christin Khan, NOAA / NEFSC",This image is in the public domain,https://commons.wikimedia.org/wiki/File:Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e3/Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg
+Skipjack tuna,Least Concern,Unknown,Author unknown,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Katsuwonus_pelamis.png,https://upload.wikimedia.org/wikipedia/commons/d/d9/Katsuwonus_pelamis.png
+Snow leopard,Vulnerable,"total estimated 4,080-6,590",Irbis1983,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Irbis4.JPG,https://upload.wikimedia.org/wikipedia/commons/a/a5/Irbis4.JPG
+Southern rockhopper penguin,Vulnerable,Unknown,This illustration was made by Samuel Blanc.,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Gorfou_sauteur_-_Rockhopper_Penguin.jpg,https://upload.wikimedia.org/wikipedia/commons/e/ee/Gorfou_sauteur_-_Rockhopper_Penguin.jpg
+Sri lankan elephant,Endangered,"2,500 - 4,000",w:en:Faslan (talk | contribs),This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Srilankan_tuskelephant.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b1/Srilankan_tuskelephant.jpg
+Sumatran elephant ,Critically Endangered,"2,400 -  2,800","CEphoto, Uwe Aranas",This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Elephant-cage-01.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b6/Borobudur-Temple-Park_Elephant-cage-01.jpg
+Sumatran orangutan,Critically Endangered,"14,613","Fiver, der Hellseher",This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Sumatra-Orang-Utan_im_Pongoland.jpg,https://upload.wikimedia.org/wikipedia/commons/2/2c/Sumatra-Orang-Utan_im_Pongoland.jpg
+Sumatran rhino,Critically Endangered,Fewer than 80,26Isabella,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG,https://upload.wikimedia.org/wikipedia/commons/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG
+Sunda tiger,Critically Endangered,Less than 400,Kaz,This file is licensed under the Creative Commons Zero,https://commons.wikimedia.org/wiki/File:Tigre_de_Sumatra_2.jpg,https://upload.wikimedia.org/wikipedia/commons/d/d3/Tigre_de_Sumatra_2.jpg
+Swift fox,Least Concern,Unknown,Abujoy,This file is licensed under the Creative Commons Attribution 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Swift_Fox_Colorado_Wolf_and_Wildlife_cropped.jpg,https://upload.wikimedia.org/wikipedia/commons/c/cc/Swift_Fox_Colorado_Wolf_and_Wildlife_cropped.jpg
+Tiger,Endangered,"Around 3,900",Charles James Sharp,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg,https://upload.wikimedia.org/wikipedia/commons/b/b0/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3_crop.jpg
+Tree kangaroo,Least Concern,Unknown,Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia),This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:Matschies_tree_kangaroo_Dendrolagus_matschiei_at_Bronx_Zoo_1_cropped.jpg,https://upload.wikimedia.org/wikipedia/commons/c/c9/Matschies_tree_kangaroo_Dendrolagus_matschiei_at_Bronx_Zoo_1_cropped.jpg
+Vaquita,Critically Endangered,About 10 individuals,"Paula Olson, NOAA",This image is in the public domain,https://commons.wikimedia.org/wiki/File:Vaquita4_Olson_NOAA.jpg,https://upload.wikimedia.org/wikipedia/commons/6/65/Vaquita4_Olson_NOAA.jpg
+Western lowland gorilla,Critically Endangered,Unknown,Greg Hume,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.,https://commons.wikimedia.org/wiki/File:WesternLowlandGorilla03.jpg,https://upload.wikimedia.org/wikipedia/commons/0/07/WesternLowlandGorilla03.jpg
+Whale,Endangered,"Around 400 North Atlantic right whales remain; other species vary: 10,000-90,000",Michaël CATANZARITI,This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. Subject to disclaimers.,https://commons.wikimedia.org/wiki/File:Southern_right_whale.jpg,https://upload.wikimedia.org/wikipedia/commons/e/e2/Southern_right_whale.jpg
+Whale shark,Endangered,Unknown,Abe Khao Lak,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg,https://upload.wikimedia.org/wikipedia/commons/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg
+White rhino,Near Threatened,"Around 18,000",Photographer,This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.,https://commons.wikimedia.org/wiki/File:Rhino_(234581759).jpeg,https://upload.wikimedia.org/wikipedia/commons/4/4f/Rhino_%28234581759%29.jpeg
+Yangtze finless porpoise,Critically Endangered,1000-1800,Zacmh,This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.,https://commons.wikimedia.org/wiki/File:Chinaporpoise.png,https://upload.wikimedia.org/wikipedia/commons/0/05/Chinaporpoise.png
+Yellowfin tuna,Near Threatened,Unknown,Author Unknown,This image is in the public domain,https://commons.wikimedia.org/wiki/File:Thunnus_albacares.png,https://upload.wikimedia.org/wikipedia/commons/c/c3/Thunnus_albacares.png
