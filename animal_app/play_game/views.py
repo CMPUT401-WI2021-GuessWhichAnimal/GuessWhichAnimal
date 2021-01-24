@@ -10,3 +10,7 @@ def field(request):
 		if animal1.status != animal2.status:
 			break
 	return render(request, 'field.html', {'animal1': animal1, 'animal2': animal2})
+
+def increase_score(request):
+	Score.player_score = Score.player_score + 1
+	return redirect('field')

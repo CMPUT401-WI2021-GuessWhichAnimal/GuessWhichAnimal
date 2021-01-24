@@ -14,3 +14,9 @@ class Animal(models.Model):
 
     def __str__(self):
         return self.name
+
+class Score(models.Model):
+    player_score = 0
+
+    def __str__(self):
+        return self.player_score
