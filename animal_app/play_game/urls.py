@@ -5,4 +5,5 @@ from . import views
 urlpatterns = [
     path('', views.field, name='field'),
     path('increase/', views.increase_score, name='increase'),
+    path('guess/', views.guess, name='guess'),
 ]
