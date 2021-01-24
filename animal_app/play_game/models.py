@@ -1,8 +1,9 @@
 from django.db import models
 
-# Create your models here.
+
 
 class Animal(models.Model):
+    image = models.ImageField(blank=True, null=True)
     name = models.CharField(max_length=200)
     status = models.CharField(max_length=200)
     population = models.CharField(max_length=200)
