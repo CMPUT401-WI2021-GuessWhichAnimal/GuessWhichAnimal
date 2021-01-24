@@ -4,12 +4,9 @@
 
 {% block content %}
 
-<form class="d-flex" method="POST">
-        {% csrf_token %}
-		<button class="btn btn-default">
+
 			 <img src={{animal.image_url}} width=600 height=500/>
 			 <p>{{message}}</p>
-		</button>
-</form>
+			 <a href="{% url 'field' %}">Play Again</a>
 
 {% endblock %}

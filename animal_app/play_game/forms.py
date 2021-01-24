@@ -9,5 +9,5 @@ class GuessForm(ModelForm):
         fields = ['chosen', 'comparitor']
 """
 class GuessForm(forms.Form):
-    chosen_name = forms.CharField(label='chosen_name', max_length=200)
-    comparitor_name = forms.CharField(label='comparitor_name', max_length=200)
+    chosen_name = forms.CharField(label='chosen_name', max_length=200, widget=forms.HiddenInput())
+    comparitor_name = forms.CharField(label='comparitor_name', max_length=200, widget=forms.HiddenInput())
