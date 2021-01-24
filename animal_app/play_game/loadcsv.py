@@ -12,7 +12,7 @@ import csv
 
 def load_animals():
     animals = []
-    with open('../raw_data/wwf.csv') as csv_file:
+    with open('../raw_data/wwf.csv', encoding='mac_roman') as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
         i = 0
         for row in reader:
