@@ -4,26 +4,34 @@
         "flavor": "m1.micro",
         "image_name": "django-image",
         "source_image_name": "Ubuntu 18.04",
-        "ssh_username": "ubuntu"
+        "ssh_username": "ubuntu",
+        "ssh_ip_version": "6"
     } ],
     "provisioners": [
         {
             "type": "shell",
             "inline": [
                 "sudo apt update",
-                "sudo apt install python3-pip",
+                "sudo apt install -y python3-pip",
                 "pip3 install django==3.1.5"
             ]
         },
         {
             "type": "file",
             "source": "run_server",
-            "destination": "home/ubuntu/run_server"
+            "destination": "/home/ubuntu/run_server"
         },
         {
             "type": "file",
             "source": "../animal_app",
-            "destination": "home/ubuntu/animal_app"
+            "destination": "/home/ubuntu/animal_app"
+        },
+        {
+            "type": "shell",
+            "inline": [
+                "echo '@reboot /home/ubuntu/run_server' | crontab",
+                "chmod +x /home/ubuntu/run_server"
+            ]
         }
     ]
     
