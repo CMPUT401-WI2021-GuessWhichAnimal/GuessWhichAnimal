@@ -12,8 +12,14 @@
             "type": "shell",
             "inline": [
                 "sudo apt update",
+<<<<<<< Updated upstream
                 "sudo apt install -y python3-pip",
                 "pip3 install django==3.1.5"
+=======
+                "sudo apt install python3-pip",
+                "pip3 install django==3.1.5",
+                "pip3 install Pillow"
+>>>>>>> Stashed changes
             ]
         },
         {
