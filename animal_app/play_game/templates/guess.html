@@ -7,6 +7,9 @@
 
 			 <img src={{animal.image_url}} width=600 height=500/>
 			 <p>{{message}}</p>
+			 {% if animal.population != 'Unknown' %}
+			 <p>The current estimated population in the wild is {{animal.population}}</p>
+			 {% endif %}
 			 <a href="{% url 'field' %}">Play Again</a>
 
 {% endblock %}
