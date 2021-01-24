@@ -7,11 +7,13 @@
 <form class="d-flex" method="POST">
         {% csrf_token %}
 		<button class="btn btn-default">
-     		<img src="https://i.imgur.com/mosQlmF.jpg" width=600 height=500/>
+			 <img src={{animal1.image_url}} width=600 height=500/>
+			 <p>{{animal1.name}}</p>
 		</button>
 
 		<button class="btn btn-default">
-     		<img src="https://i.imgur.com/mi4sOoH.jpeg" width=600 height=500/>
+			 <img src={{animal2.image_url}} width=600 height=500/>
+			 <p>{{animal2.name}}</p>
 		</button>
 </form>
 
