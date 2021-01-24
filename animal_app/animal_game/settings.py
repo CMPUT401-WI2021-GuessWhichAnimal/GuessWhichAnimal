@@ -27,7 +27,7 @@ SECRET_KEY = '^1a+v12wf#r4uu9*f&e$2g*_ukrq7zy=)76u=s217yr5(sy!81'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ getfqdn() ]
+ALLOWED_HOSTS = [ getfqdn(), 'localhost', '127.0.0.1' ]
 
 
 # Application definition
